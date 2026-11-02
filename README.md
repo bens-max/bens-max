@@ -11,11 +11,16 @@ I'm a third-year CSE student at **College of Engineering Kidangoor**, interested
 
 ### 🛠️ Technologies & Tools
 
-**Languages:** Python · C
-
-**AI & Backend:** Gemini API · Flask · Machine Learning fundamentals
-
-**Tools & Platforms:** Git · GitHub · Linux · VS Code · STM32CubeIDE
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+</p>
 
 ### 🚀 Featured Projects
 
