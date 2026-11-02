@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="516.0" height="520" viewBox="0 0 516.0 520">
+<rect width="100%" height="100%" fill="#050a05"/>
+
+        <style>
+            .ascii-line {
+                font-family: monospace;
+                font-size: 8px;
+                fill: #39ff72;
+                clip-path: inset(0 100% 0 0);
+                animation: typing 2s steps(100, end) forwards;
+            }
+
+            @keyframes typing {
+                from {
+                    clip-path: inset(0 100% 0 0);
+                }
+                to {
+                    clip-path: inset(0 0 0 0);
+                }
+            }
+        </style>
+        
+<text x="10" y="12" class="ascii-line" style="animation-delay: 0.00s" xml:space="preserve">   :+#%@@@%-:::--==+++*##%@@@@@@@@@@@@@@@@@@@%%%%%%%###**+-.    ....:::..   ..:::........     ...:..</text>
+<text x="10" y="22" class="ascii-line" style="animation-delay: 0.06s" xml:space="preserve">..:-+#@@@@%-:::--==+++*#%%@@@@@@@@@@@@@@@@@@@%%%%%%%##**++-.     ....:...   ..........::.    ...::..</text>
+<text x="10" y="32" class="ascii-line" style="animation-delay: 0.12s" xml:space="preserve">::-=+#@@@@%-:::--==+++*#%%%@@@@@@@@@@@@@@@@@@@%%%%%###**++-.      .......        ....:-=:.....::::..</text>
+<text x="10" y="42" class="ascii-line" style="animation-delay: 0.18s" xml:space="preserve">:--=+#@@@@%-.::--==+++*#%%%@@@@@@@@@@@@@@@@@@@%%%%%###***+:.      ...::....          ..::..::-=++=-:</text>
+<text x="10" y="52" class="ascii-line" style="animation-delay: 0.24s" xml:space="preserve">::--+#@@@@#:.::--==+++*#%%%@@@@@@@@@@@@@@@@@@%%%%%###*+++=.       .:::::........           ..:+***=-</text>
+<text x="10" y="62" class="ascii-line" style="animation-delay: 0.30s" xml:space="preserve">..:-+#@@@@#:.::--==+++*##%%@@@@@@@@@@@@@@@@@@%#***+*++====-:.--==+**++=-...........        ...:-----</text>
+<text x="10" y="72" class="ascii-line" style="animation-delay: 0.36s" xml:space="preserve">...-+#@@@@#:.::--==+++*##%%@@@@@@@@@@@@@@@@%*++**##@@@##**###%%#%@@%%%%#*=:.........       ...:...::</text>
+<text x="10" y="82" class="ascii-line" style="animation-delay: 0.42s" xml:space="preserve">::--+#@@@@#:.::--==+++*##%@@@@@@@@@@@@@@@@%**#%@@@@@@@@@@@@@@@@@@@@@@@@%%#+=-:.......      .::::::::</text>
+<text x="10" y="92" class="ascii-line" style="animation-delay: 0.48s" xml:space="preserve">---==*#@@@*:.:::-==+++**#%@@@@@@@@@@@@@@@%*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*++=.   ........::-=----:</text>
+<text x="10" y="102" class="ascii-line" style="animation-delay: 0.54s" xml:space="preserve">---=++*%@@*:.::--==+++**#%%@@@@@@@@@@@@%*=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*+=-.    .....::--==---:</text>
+<text x="10" y="112" class="ascii-line" style="animation-delay: 0.60s" xml:space="preserve">  .-+#@@@@*:::---==+++**#%%@@@@@@@@@@@%+-=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%**++=:     .:-----:::::</text>
+<text x="10" y="122" class="ascii-line" style="animation-delay: 0.66s" xml:space="preserve">   :+#@@@@*:::---==+++*##%%@@@@@@@@@@@+=**#@@@@@@@@@@@%%##***++++**#%@@@@@@@@%#*=+=     :===-::.....</text>
+<text x="10" y="132" class="ascii-line" style="animation-delay: 0.72s" xml:space="preserve">..:-+#@@@@*:::--===+++*##%%@@@@@@@@@@%*+*%%@@@@@@@@@#*+=======-------+#@@@@@@@%#+==....:==-.        </text>
+<text x="10" y="142" class="ascii-line" style="animation-delay: 0.78s" xml:space="preserve">.::-*#@@@@*:::--===++**##%%@@@@@@@@@@%%##@@@@@@%##**++===------:::::::-=#@@@@@@%*+:...:--:.         </text>
+<text x="10" y="152" class="ascii-line" style="animation-delay: 0.84s" xml:space="preserve">...-*#@@@@*:::--===++**##%%@@@@@@@@@@@%%@@@@@@#-:-=++==-------:::::::..::=%@@%%#*=. ..::...........:</text>
+<text x="10" y="162" class="ascii-line" style="animation-delay: 0.90s" xml:space="preserve">...-+#@@@@=.::--===++**##%%@@@@@@@@@@@%@@@@@@*:.:=*###*+=--:::--:.........*@@%#*+--:...::....:::::-=</text>
+<text x="10" y="172" class="ascii-line" style="animation-delay: 0.96s" xml:space="preserve">   :+%@%++: :---==++***##%@@@@@@@@@@@@@@@@@%-  -*#%%%%%%%#==-----=+=-:..  +@@@*+==-.   .-=:..    :=:</text>
+<text x="10" y="182" class="ascii-line" style="animation-delay: 1.02s" xml:space="preserve">   :*+--**..::--==++**##%%@@@@@@@@@@@#*%@@@= :=*########**+++===+*####*+= +@%%*====-...:-=-::..   ..</text>
+<text x="10" y="192" class="ascii-line" style="animation-delay: 1.08s" xml:space="preserve">   :--*%#:.:::--==++**###%@@@@@@@@@@#+*#%@*. -=+#%%%%%#%%#**=---+*#+==-::.+@%*=====-----==---:..    </text>
+<text x="10" y="202" class="ascii-line" style="animation-delay: 1.14s" xml:space="preserve">  .-*%%*-==:::--==++**###%@@@@@@@@@@***##%:  .:::-=++++**##=:.==+#%***+-. =#*----====++*++==-...    </text>
+<text x="10" y="212" class="ascii-line" style="animation-delay: 1.20s" xml:space="preserve"> .-#%#+-#@=.::---=++**##%@@@@@@@@@@@**%%*=: .:-=--::-=++++=-. .-::----:.  **-----===+*****+=:..     </text>
+<text x="10" y="222" class="ascii-line" style="animation-delay: 1.26s" xml:space="preserve">-*%#+-*@@@=:::--==++**##%@@@@@@@@@@@%++++:::-=+==--=+##+++=-.  .::.....  .===-===++++++***+-.......:</text>
+<text x="10" y="232" class="ascii-line" style="animation-delay: 1.32s" xml:space="preserve">%%=:=#@@@@=::---=+++**##%@@@@@@@@@@@@#=+*=:=+**+*%%%##%@@@#+===..-=-:..   -=====++***++**#*=--:::-==</text>
+<text x="10" y="242" class="ascii-line" style="animation-delay: 1.38s" xml:space="preserve">*--+*#@@@@=::--==++***#%%@@@@@@@@@@@@@@@#-:+****%%@@%%#######*=--=++=:.  :--===++*#**++*####***+====</text>
+<text x="10" y="252" class="ascii-line" style="animation-delay: 1.44s" xml:space="preserve">..-=+***%%=:---=+++**##%@@@@@@@@@@%###**-.-+***++*#%%*+=-.:.:::=*#%+-:...:--===++**+++++######*+=--=</text>
+<text x="10" y="262" class="ascii-line" style="animation-delay: 1.50s" xml:space="preserve">   -*%@@%*-:---=+++**##%@@@%#*+=-::-**- :=******++****++=----::-=+*-....:::--------:::--=====-:.    </text>
+<text x="10" y="272" class="ascii-line" style="animation-delay: 1.56s" xml:space="preserve"> .:=+#@@@*::--==++**#***+=-:::::..-#+:  =#%%#******++++++==-:.. .::...........      .........       </text>
+<text x="10" y="282" class="ascii-line" style="animation-delay: 1.62s" xml:space="preserve">#*==+*#%#+::-===+=-:.   ..::-:::.:*=.  .+%%%%%%#**++++====-:........                    .....       </text>
+<text x="10" y="292" class="ascii-line" style="animation-delay: 1.68s" xml:space="preserve">%*=+*%@@@#-:::..       ..::::::..=*:::.:-#%%%%%%%###*+==--::....                          .         </text>
+<text x="10" y="302" class="ascii-line" style="animation-delay: 1.74s" xml:space="preserve">.:-+*%@@#=.           ..:::::--::*=:::::-=%#####%####**+++=--:...                                   </text>
+<text x="10" y="312" class="ascii-line" style="animation-delay: 1.80s" xml:space="preserve">  .+*#=.   .        .....::-:-=--%:.::::-:=#*********++==-:...=#=.-:               ............   ..</text>
+<text x="10" y="322" class="ascii-line" style="animation-delay: 1.86s" xml:space="preserve">  .==   ..:--:.:.........::----:=#..:::::::+++==++++++=-::::-*@%+..==:          ...:::::::----:::...</text>
+<text x="10" y="332" class="ascii-line" style="animation-delay: 1.92s" xml:space="preserve">  .:.....:..:--:::..::::.::--=-:=+....::...:+=========--:-=+%@@*+.  :+=         .....::::........  .</text>
+<text x="10" y="342" class="ascii-line" style="animation-delay: 1.98s" xml:space="preserve">   .:::----:..:-::...:-+:.::-=:=+=....:-:.. =+==========+*%@@@%+-:   .=-  .                ....     </text>
+<text x="10" y="352" class="ascii-line" style="animation-delay: 2.04s" xml:space="preserve">   .:--------:..::....:*+ ::--:+=+--=+*@@@%*-======++++**#@@%%*=-.     .:. ..             .........:</text>
+<text x="10" y="362" class="ascii-line" style="animation-delay: 2.10s" xml:space="preserve">  .::-=----::--:..::. .=#..:-:-+--::-==%%#@%*-:----===++*##**#*-:.       .  ..            ......:-::</text>
+<text x="10" y="372" class="ascii-line" style="animation-delay: 2.16s" xml:space="preserve"> .:::-=----::::::. .:. .*. :-:*=::.:-:-=%+%@%+::---===+**======**:.. .*-== ......   .      ..:::::::</text>
+<text x="10" y="382" class="ascii-line" style="animation-delay: 2.22s" xml:space="preserve">::--::==----::...:.  ::.+. :-:#:.: .:::-#****#*-:-==+*#*=-:.-*=*- . .-#=*+  :.::.  .:    ...::::::::</text>
+<text x="10" y="392" class="ascii-line" style="animation-delay: 2.28s" xml:space="preserve">..-=--:-=---:::.. ..  :-+: .:-# .. .:.::+*=*==**=-*#%#+-:- .#*+*. . .-+-%=  .:-:  ::      ..::::::::</text>
+<text x="10" y="402" class="ascii-line" style="animation-delay: 2.34s" xml:space="preserve"> .:====:----:::...     :*-.  *+    ....:=#=*=-=+**%#=-.:-: :==+- .. .-==%:  :-: .-.        .::::::::</text>
+<text x="10" y="412" class="ascii-line" style="animation-delay: 2.40s" xml:space="preserve">..:-==++----:::..       *=: :%-    ....:=#+++--+#*-.  .::. ..:.  .. .=-**  .-:.::        ...........</text>
+<text x="10" y="422" class="ascii-line" style="animation-delay: 2.46s" xml:space="preserve">:-=--===+=---::....     ==..*#..   .....-+-=-=*%=  ..  ::..+==:  .. :=-%- .:::.  ..                 </text>
+<text x="10" y="432" class="ascii-line" style="animation-delay: 2.52s" xml:space="preserve">:*%+:-===--=---:..      ==.=%=..   .....:-.-:*@-   ::. :: -*+#.  :: :-*#-..........                 </text>
+<text x="10" y="442" class="ascii-line" style="animation-delay: 2.58s" xml:space="preserve">=%@#::-==--------:..    .--%#..-:  .....:**+*@=    .-:....***+   :: .-@+-:...::::.   .. .           </text>
+<text x="10" y="452" class="ascii-line" style="animation-delay: 2.64s" xml:space="preserve">=%@%--::==:--::::--:.    :%@- :--.  ....:*%+%@.     ::...-#+#:   .-..##-:..:--::.  .::  .           </text>
+<text x="10" y="462" class="ascii-line" style="animation-delay: 2.70s" xml:space="preserve">++%%-==:.-----:...:--:.   +*..-==:  ...::*%#%+      .:::.#+*+    .-:*@=.::.-+=:  .:-:  .            </text>
+<text x="10" y="472" class="ascii-line" style="animation-delay: 2.76s" xml:space="preserve">+===-====:::-:::..  .:-:. =:.:-===.  .:::+@#%=...  . :::+#+#-   .::*@+:=#*++=::-==:  ..             </text>
+<text x="10" y="482" class="ascii-line" style="animation-delay: 2.82s" xml:space="preserve">-.. :===++=-:..:...    .:...:--=+=:  .::-=%*%=.:...-:.:-%***.:...:*@*:+#*+======:   ..              </text>
+<text x="10" y="492" class="ascii-line" style="animation-delay: 2.88s" xml:space="preserve">  .:--=====+:.....          .-=+++-...::-=%%%+::..--=::*%+#=:--:-#@*+%*=-=++=-.   ..           ...  </text>
+<text x="10" y="502" class="ascii-line" style="animation-delay: 2.94s" xml:space="preserve">:-=+-----===:.:::.           :=+**+:..:--++%@*:..--===+***#=+++*@@#+@@@#+=-.   ...            ......</text>
+</svg>

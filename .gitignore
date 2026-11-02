@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Personal source photograph
+assets/profile.jpg
+
+data/
+
