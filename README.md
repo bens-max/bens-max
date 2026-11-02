@@ -54,6 +54,10 @@ An embedded systems project using an STM32 microcontroller to control RGB LED co
 <p align="center">
   <img src="https://ghchart.rshah.org/39ff72/bens-max" alt="Benson's GitHub contribution graph" width="100%">
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bens-max&theme=dark&hide_border=true&background=00000000" alt="GitHub contribution streak" />
+</p>
 ---
 
 <p align="center">
