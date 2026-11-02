@@ -40,8 +40,8 @@ An embedded systems project using an STM32 microcontroller to control RGB LED co
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bens-max&show_icons=true&theme=transparent&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bens-max&layout=compact&theme=transparent&hide_border=true" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=bens-max&show_icons=true&theme=transparent&hide_border=true" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bens-max&layout=compact&theme=transparent&hide_border=true" height="165">
 </p>
 
 ---
